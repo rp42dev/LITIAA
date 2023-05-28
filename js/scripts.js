@@ -17,7 +17,9 @@ window.addEventListener('DOMContentLoaded', event => {
         }
         if (window.scrollY === 0) {
             navbarCollapsible.classList.remove('navbar-shrink')
+            document.getElementById("logo").src = "assets/img/logo-light.svg";
         } else {
+            document.getElementById("logo").src = "assets/img/logo.svg";
             navbarCollapsible.classList.add('navbar-shrink')
         }
 
