@@ -6697,7 +6697,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #f4623a !important;
+  color: #6a1a21 !important;
 }
 .link-primary:hover, .link-primary:focus {
   color: #c34e2e !important;
@@ -10887,7 +10887,7 @@ hr.divider-light {
   color: #9e3039;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #9e3039 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
