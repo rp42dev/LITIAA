@@ -12653,10 +12653,9 @@ hr.divider-light {
 
 #contact,
 #services{
-  background:
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 10%, rgba(255, 255, 255, .0) 20%, rgba(255, 255, 255, .0) 80%, rgba(255, 255, 255, 1) 100%),
   url("../assets/img/road.svg") no-repeat center;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 #mainNav {
