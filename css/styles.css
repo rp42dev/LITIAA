@@ -4709,7 +4709,7 @@ textarea.form-control-lg {
   --bs-alert-border-color: #f5c2c7;
 }
 .alert-danger .alert-link {
-  color: #6a1a21;
+  color: #9e3039;
 }
 
 .alert-light {
@@ -6698,10 +6698,10 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #6a1a21 !important;
+  color: #9e3039 !important;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #c34e2e !important;
+  color: #7c2129 !important;
 }
 
 .link-secondary {
