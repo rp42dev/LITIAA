@@ -8935,6 +8935,10 @@ fieldset:disabled .btn {
   font-style: normal !important;
 }
 
+.fw-thin {
+  font-weight: 100 !important;
+}
+
 .fw-light {
   font-weight: 300 !important;
 }
