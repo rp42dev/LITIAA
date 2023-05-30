@@ -12741,6 +12741,40 @@ hr.divider-light {
   color: #9e3039;
 }
 
+.roadmarks {
+  position: absolute;
+  width: 100%;
+  transform: translateY(50%);
+  left: 0;
+  opacity: 0.05;
+  overflow: hidden;
+}
+
+.roadmarks-double {
+  bottom: 50%;
+}
+
+.roadmarks img {
+  width: 100vw;
+  min-width: 1400px;
+  height: 100%;
+  object-fit: cover;
+}
+
+.roadmark-top {
+  top: 5%;
+}
+
+.roadmark-bottom {
+  bottom: 8%;
+}
+
+.roadmark img {
+  width: 100vw;
+  min-width: 900px;
+  height: 100%;
+  object-fit: cover;
+}
 
 header.masthead {
   padding-top: 10rem;
