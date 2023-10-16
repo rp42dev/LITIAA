@@ -136,6 +136,7 @@ h1,
 
 .letter-spaceing {
   letter-spacing: 0.2rem;
+  font-weight: 300 !important;
 }
 
 .f-heading {
@@ -3229,7 +3230,7 @@ textarea.form-control.is-invalid {
   --bs-btn-padding-y: 0.375rem;
   --bs-btn-font-family: var(--bs-font-sans-serif);
   --bs-btn-font-size: 1rem;
-  --bs-btn-font-weight: 300;
+  --bs-btn-font-weight: 400;
   letter-spacing: 0.1em;
   --bs-btn-line-height: 1.5;
   --bs-btn-color: #343a40;
@@ -3245,7 +3246,7 @@ textarea.form-control.is-invalid {
   padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
   font-family: var(--bs-btn-font-family);
   font-size: var(--bs-btn-font-size);
-  font-weight: 300;
+  font-weight: 400;
   line-height: var(--bs-btn-line-height);
   letter-spacing: 0.1em;
   color: var(--bs-btn-color);
@@ -12657,7 +12658,7 @@ body {
 .btn-xl {
   padding: 1.25rem 2.25rem;
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: uppercase;
   border: none;
   border-radius: 10rem;
@@ -12702,7 +12703,7 @@ hr.divider-light {
 #mainNav #navbarToggler {
   color: #555658;
   font-family: var(--bs-font-sans-serif);
-  font-weight: 300;
+  font-weight: 400;
   font-size: 0.9rem;
   padding: 0.75rem 0;
   letter-spacing: 0.1rem;
