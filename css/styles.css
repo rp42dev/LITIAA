@@ -12711,11 +12711,11 @@ hr.divider-light {
 
 #mainNav .navbar-nav .nav-item .nav-link:hover,
 #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #9e3039;
+  color: #80a3ac;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #9e3039 !important;
+  color: #80a3ac !important;
 }
 
 #mainNav {
@@ -12766,7 +12766,7 @@ hr.divider-light {
 }
 
 #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-  color: #9e3039;
+  color: #80a3ac;
 }
 
 .roadmarks {
