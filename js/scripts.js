@@ -50,6 +50,10 @@ window.addEventListener('DOMContentLoaded', event => {
             form.classList.add('was-validated');
         }, false);
     }
+
+    function onSubmit(token) {
+        document.form.submit();
+    }
    
 });
 
