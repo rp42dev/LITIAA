@@ -38,4 +38,18 @@ window.addEventListener('DOMContentLoaded', event => {
             rootMargin: '0px 0px -40%',
         });
     }
+
+    // Validate bootstrap floating label form
+    var form = document.getElementById('contactForm');
+    if (form) {
+        form.addEventListener('submit', function (event) {
+            if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+            }
+            form.classList.add('was-validated');
+        }, false);
+    }
+   
 });
+
